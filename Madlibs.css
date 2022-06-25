@@ -1,0 +1,28 @@
+*{
+    color: lightgoldenrodyellow;
+}
+
+input{
+    display: block;
+    color: black;
+    width: 1000px;
+    height: 20px;
+}
+
+body{
+background-color: lightcoral;
+}
+
+.button{
+    color: green;
+    width: 60px;
+    height: 40px;
+}
+
+.Welcome, .Information{
+    color: rgb(255, 72, 0)
+}
+
+.madlib{
+    display:none;
+}
